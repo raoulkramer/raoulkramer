@@ -1,0 +1,15 @@
+{
+    "basics": {
+        "name": "Raoul Kramer",
+        "summary": "Ik heb mijn bedrijf Beta Break waarmee ik organisaties uit de publieke sector en non-profit organisaties help met het implementeren van open source applicaties. Hiervoor neem ik vaak de rol als projectmanager en productowner op mij. www.polispilot.nl",
+        "image": "https://betabreak.net/rk.png",
+        "email": "raoul@betabreak.net",
+        "url": "https://betabreak.net"
+    },
+    "skills": [
+        {"keywords": ["OpenSource", "Duurzaam", "Sociaal"]}
+    ]
+}
+
+
+
